@@ -1,0 +1,2 @@
+include ':sample', ':arcprogress'
+rootProject.name='ArcProgress'

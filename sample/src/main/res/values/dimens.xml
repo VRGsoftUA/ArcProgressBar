@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="single_pad">8dp</dimen>
+    <dimen name="arc_thickness">14dp</dimen>
+    <dimen name="progress_size">210dp</dimen>
+</resources>
